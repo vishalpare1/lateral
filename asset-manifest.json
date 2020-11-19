@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lateral.git/static/css/main.36855f52.chunk.css",
+    "main.js": "/lateral.git/static/js/main.e346a35c.chunk.js",
+    "main.js.map": "/lateral.git/static/js/main.e346a35c.chunk.js.map",
+    "runtime-main.js": "/lateral.git/static/js/runtime-main.e0c541a4.js",
+    "runtime-main.js.map": "/lateral.git/static/js/runtime-main.e0c541a4.js.map",
+    "static/js/2.5d422ca5.chunk.js": "/lateral.git/static/js/2.5d422ca5.chunk.js",
+    "static/js/2.5d422ca5.chunk.js.map": "/lateral.git/static/js/2.5d422ca5.chunk.js.map",
+    "index.html": "/lateral.git/index.html",
+    "static/css/main.36855f52.chunk.css.map": "/lateral.git/static/css/main.36855f52.chunk.css.map",
+    "static/js/2.5d422ca5.chunk.js.LICENSE.txt": "/lateral.git/static/js/2.5d422ca5.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/lateral.git/static/media/top.15fb5102.png",
+    "static/media/farmer-photo.d6bd4840.jpg": "/lateral.git/static/media/farmer-photo.d6bd4840.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0c541a4.js",
+    "static/js/2.5d422ca5.chunk.js",
+    "static/css/main.36855f52.chunk.css",
+    "static/js/main.e346a35c.chunk.js"
+  ]
+}
